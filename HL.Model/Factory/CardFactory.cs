@@ -8,7 +8,7 @@ namespace HL.Model.Factory
 {
     public class CardFactory
     {
-        private static int MaxNumberCard = 1;
+        private static int MaxNumberCard = 13;
 
         public static Card Create()
         {
